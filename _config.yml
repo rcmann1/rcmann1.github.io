@@ -22,10 +22,10 @@ repository               : "rcmann1/rcmann1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rebecca Mann"
   pronouns         :  "they/them"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Student in Public Policy"
+  location         : "Ithaca, NY"
   University       : "Cornell University"
   uri              : rcmann.github.io
   email            : "rcm342@cornell.edu" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "Rmann@bsky.social" # Replace this with you Bluesky username
+  bluesky          : "rmann@bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
