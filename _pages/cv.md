@@ -33,7 +33,7 @@ Work experience
     
 * 2021-2022, 2024: Research Associate
 * 2018-2021: Research Assistant
-  *Synergy Enterprises, Inc.
+  * Synergy Enterprises, Inc.
 
 * 2020-2022: Research Assistant
   * University of Maryland
@@ -52,6 +52,12 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Blogs + Reports
+======
+  <ul>{% for post in site.year-archive reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
