@@ -12,10 +12,4 @@ main:
     url: /cv/
         
   - title: "Blogs and Reports"
-    url: /year-archive/  
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /year-archive/
