@@ -2,7 +2,7 @@
 title: "Transgender Status, Income, and Employment"
 collection: publications
 category: manuscripts
-permalink: https://github.com/rcmann1/rcmann1.github.io/blob/24d03907b452462871c43e3d6e4c825884a11fcc/files/Econ493Final.pdf
+permalink: /blob/24d03907b452462871c43e3d6e4c825884a11fcc/files/Econ493Final.pdf
 excerpt: 'Uses BRFFS and Household Pulse data to describe the state of transgender Americans in the labor market.'
 date: 2025-01-01
 venue: 'Working paper'
