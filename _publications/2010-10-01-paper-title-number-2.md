@@ -1,6 +1,6 @@
 ---
 title: "Disability by Occupation, After the Start of the Covid-19 Pandemic"
-collection: publications
+collection: research
 category: manuscripts
 permalink: disability_occupation
 excerpt: 'This paper seeks to investigate increase in individual’s reported disability by occupation over the course the Covid-19 pandemic.'
