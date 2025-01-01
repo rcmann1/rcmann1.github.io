@@ -20,9 +20,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Summer 2024: Research Intern
+  * Federal Reserve Bank of Philadelphia
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
