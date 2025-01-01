@@ -5,6 +5,7 @@ category: working papers
 permalink: disability_occupation
 excerpt: 'This paper seeks to investigate increase in individual’s reported disability by occupation over the course the Covid-19 pandemic.'
 date: 2022-12-16
+venue: 'Unpublished: Working Paper'
 paperurl: 'http://rcmann1.github.io/files/STAT499_latexv.pdf'
 citation: 'Mann, R. (2022). &quot;Disability by Occupation, After the Start of the Covid-19 Pandemic.&quot; <i>Working Paper</i>.'
 ---
