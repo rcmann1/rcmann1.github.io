@@ -1,6 +1,6 @@
 ---
 title: "Transgender Status, Income, and Employment"
-collection: publications
+collection: research
 category: manuscripts
 permalink: trans_paper
 excerpt: 'Uses BRFFS and Household Pulse data to describe the state of transgender Americans in the labor market.'
