@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Public Policy, Cornell University, 2030 (expected)
+* B.A. in Mathematics, University of Maryland, Baltimore County, 2023
+* B.S. in Statistics, University of Maryland, Baltimore County, 2023
+* B.A. in Economics, University of Maryland, 2017
+* B.A. in History, University of Maryland, 2017
+
 
 Work experience
 ======
