@@ -22,18 +22,24 @@ Work experience
 ======
 * Summer 2024: Research Intern
   * Federal Reserve Bank of Philadelphia
-  * Supervisor: The Users
+  * Supervisors: Allison Shertzer and Chris Severen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Research Intern
+  * Council of Economic Advisers, The White House
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2022: Research Intern
+  * The Brookings Institution
+  * Supervisor: Jenny Schuetz
+    
+* 2021-2022, 2024: Research Associate
+* 2018-2021: Research Assistant
+  *Synergy Enterprises, Inc.
+
+* 2020-2022: Research Assistant
+  * University of Maryland
+  * Supervisor: Ethan Kaplan
+ 
+
 Skills
 ======
 * Skill 1
@@ -49,18 +55,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fall 2022: Intro to Linear Algebra TA
+  * University of Maryland, Baltimore County
+
