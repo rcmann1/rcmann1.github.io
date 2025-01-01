@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Uses BRFFS and Household Pulse data to describe the state of transgender Americans in the labor market.'
 date: 2025-01-01
 venue: 'Working paper'
-paperurl: 'http://rcmann1.github.io/files/Mann_Econ493 (5).pdf'
+paperurl: 'http://rcmann1.github.io/files/MannEcon493Final.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
