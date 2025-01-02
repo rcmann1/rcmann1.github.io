@@ -1,7 +1,7 @@
 ---
 title: 'As extreme heat grips the globe, access to air conditioning is an urgent public health issue'
 date: 2022-07-25
-permalink: /posts/2012/08/Brookings2/
+permalink: /posts/Brookings2/
 tags:
   - housing
   - climate
