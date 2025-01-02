@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloadable CV available [here](files/CV_250101.pdf).
+Downloadable CV available [here](https://github.com/rcmann1/rcmann1.github.io/blob/137a3f07891d8fbde93dc85c63a7c87da9050acb/files/CV_250101.pdf).
 
 Education
 ======
