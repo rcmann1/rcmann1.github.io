@@ -21,11 +21,11 @@ repository               : "rcmann1/rcmann1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot2.png"
+  avatar           : "headshot3.png"
   name             : "Rebecca Mann"
   pronouns         : "they/them"  
   bio              : "PhD Student in Public Policy"
-  location         : "Cornell University"
+  location         : # "Cornell University"
   University       : "Cornell University"
   uri              : # ""
   email            : "rcm342@cornell.edu" 
