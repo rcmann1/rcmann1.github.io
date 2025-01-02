@@ -62,6 +62,18 @@ Blogs + Reports
   <ul>{% for post in site.year-archive reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+  <html lang="fr">
+<head>
+<!-- note the meta tag -->
+<meta http-equiv="refresh" content="0; url=https://github.com/rcmann1/rcmann1.github.io/blob/137a3f07891d8fbde93dc85c63a7c87da9050acb/files/CV_250101.pdf" />
+  <meta charset="utf-8">
+  <title>R. Mann CV</title>
+</head>
+<body>
+</body>
+</html>
   
 Teaching
 ======
