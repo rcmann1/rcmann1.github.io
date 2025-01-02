@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Downloadable CV available here''.
+
 Education
 ======
 * Ph.D in Public Policy, Cornell University, 2030 (expected)
