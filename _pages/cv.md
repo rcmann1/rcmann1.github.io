@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloadable CV available here'files/CV_250101.pdf'.
+Downloadable CV available [here](files/CV_250101.pdf).
 
 Education
 ======
