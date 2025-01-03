@@ -1,5 +1,5 @@
 ---
-title: "Disability by Occupation, After the Start of the Covid-19 Pandemic"
+title: "Disability by occupation, after the start of the Covid-19 Pandemic"
 collection: publications
 category: working papers
 permalink: disability_occupation
