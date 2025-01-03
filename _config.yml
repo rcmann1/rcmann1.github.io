@@ -21,7 +21,7 @@ repository               : "rcmann1/rcmann1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot1.png"
+  avatar           : "headshot.png"
   name             : "Rebecca Mann"
   pronouns         : "they/them"  
   bio              : "PhD Student in Public Policy"
