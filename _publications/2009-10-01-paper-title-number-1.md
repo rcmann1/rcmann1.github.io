@@ -1,5 +1,5 @@
 ---
-title: "Transgender Status, Income, and Employment"
+title: "Transgender status, income, and employment"
 collection: publications
 category: working papers
 permalink: trans_paper
