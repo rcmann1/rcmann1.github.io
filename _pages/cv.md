@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV available [here](https://github.com/rcmann1/rcmann1.github.io/blob/a2d06a1816e511fb0b7c999affbc092159afdbd1/files/CV251013.pdf)
+CV available [here](https://github.com/rcmann1/rcmann1.github.io/blob/5f98d40d7a63b15719126950f02fa71d890806ca/files/CV_202507.pdf)
